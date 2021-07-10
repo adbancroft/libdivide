@@ -1,0 +1,19 @@
+{
+    "name": "libdivide",
+    "version": "4.0",
+    "keywords": [
+        "integer",
+        "division",
+        "divide",
+        "performance"
+    ],
+    "description": "A header-only C/C++ library for optimizing integer division",
+    "build": {
+        "includeDir": "libdivide/include"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ridiculousfish/libdivide.git"
+    },
+    "license": "zlib, boost"
+}

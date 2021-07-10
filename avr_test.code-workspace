@@ -3,6 +3,9 @@
 		{
 			"name": "avr",
 			"path": "test/avr"
+		},
+		{
+			"path": "pio"
 		}
 	],
 	"settings": {
