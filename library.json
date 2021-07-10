@@ -8,12 +8,15 @@
         "performance"
     ],
     "description": "A header-only C/C++ library for optimizing integer division",
-    "build": {
-        "includeDir": "libdivide/include"
+    "export": {
+        "include":
+        [
+            "./libdivide.h"
+        ]
     },
     "repository": {
         "type": "git",
         "url": "https://github.com/ridiculousfish/libdivide.git"
     },
-    "license": "zlib, boost"
+    "license": "BSL-1.0"
 }
