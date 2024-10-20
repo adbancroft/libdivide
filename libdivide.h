@@ -12,8 +12,8 @@
 #define LIBDIVIDE_H
 
 #define LIBDIVIDE_VERSION "5.1"
-#define LIBDIVIDE_VERSION_MAJOR 5
-#define LIBDIVIDE_VERSION_MINOR 1
+#define LIBDIVIDE_VERSION_MAJOR $major_ver
+#define LIBDIVIDE_VERSION_MINOR $minor_ver
 
 #include <stdint.h>
 
